@@ -1,0 +1,23 @@
+.do_box{
+    width: 100%;
+    /* height: 50px; */
+    padding: 5px 10px;
+    /* background-color: #; */
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.status{
+    padding: 3px;
+    text-align: center;
+    margin: 0;
+    border-radius: 5px;
+    background-color: honeydew;
+}
+.bg-green{
+    background-color: #d4e4f8;
+}
+.bg-red{
+    background-color: rgb(255, 228, 228);
+}
